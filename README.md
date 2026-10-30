@@ -42,7 +42,7 @@ I developed two interactive dashboards to transform raw retail data into meaning
 - Learned dashboard navigation and interactive filtering.
 
 ## 📂 Project Files
-- Tableau Workbook (.twb / .twbx)
+- Business Insights
 - Dashboard Screenshots
 - Project Demo Video
 
